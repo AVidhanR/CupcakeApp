@@ -6,4 +6,4 @@
   CupcakeApp ensures a delightful experience for all cupcake enthusiasts.
 </p>
 --------- 
-<img src="https://github.com/AVidhanR/CupcakeApp/assets/116101537/1d9347ef-6e35-427c-b1fd-e2b51808617b" width="400px" height="300px" >
+<img src="https://github.com/AVidhanR/CupcakeApp/assets/116101537/1d9347ef-6e35-427c-b1fd-e2b51808617b" width="50%" height="50%" >
