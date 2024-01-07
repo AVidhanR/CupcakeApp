@@ -5,5 +5,5 @@
   With an intuitive interface and a variety of flavors, toppings, and customization options, 
   CupcakeApp ensures a delightful experience for all cupcake enthusiasts.
 </p>
---------- 
+<hr>
 <img src="https://github.com/AVidhanR/CupcakeApp/assets/116101537/1d9347ef-6e35-427c-b1fd-e2b51808617b" width="50%" height="50%" >
