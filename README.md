@@ -6,4 +6,3 @@
   CupcakeApp ensures a delightful experience for all cupcake enthusiasts.
 </p>
 (https://github.com/AVidhanR/CupcakeApp/assets/116101537/dec3fdee-ac9a-43a6-b50d-8b9e1af32358)
-<img src="https://github.com/AVidhanR/CupcakeApp/assets/116101537/dec3fdee-ac9a-43a6-b50d-8b9e1af32358" />
